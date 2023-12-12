@@ -1,6 +1,6 @@
 # SQL BASIC QUERIES
 
-## How to remove Duplicate Data in SQL
+## 1. How to remove Duplicate Data in SQL
 
 There are 2 different scenario for duplicate records in a table and then comes up with different SQL queries to remove these duplicate data from the database. 
 
@@ -19,3 +19,7 @@ Data can be consider as duplicate if all column values are duplicated or if only
 -- Requirement: Delete duplicate entry for a car in the CARS table.
 
 ![image](https://github.com/Manojkumar0715/Practice_SQL_Queries/assets/146093604/4f0e2306-5717-4571-a761-4f58434d5dc7)
+
+## 2. How to find count of chars in string
+
+![image](https://github.com/Manojkumar0715/Practice_SQL_Queries_from_TechTFQ/assets/146093604/6fae5ea6-fe67-4a2f-81b7-78fdcd1505d2)
